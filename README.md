@@ -1,5 +1,5 @@
 # k1ttysms
-====
+=
 # Kegunaan nya 
 * Untuk spam sms :v
 # Command
