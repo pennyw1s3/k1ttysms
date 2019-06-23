@@ -1,5 +1,6 @@
 # k1ttysms
-=
+# Author
+* Tn.PENNYW1S3
 # Kegunaan nya 
 * Untuk spam sms :v
 # Command
